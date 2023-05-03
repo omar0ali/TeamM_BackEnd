@@ -1,4 +1,6 @@
 # TeamM_BE
+This is the back-end of an e-commerce website project created for EECS 4413, which focuses on building e-commerce systems.
+
 Backend
 
 ## To import project into Eclipse
