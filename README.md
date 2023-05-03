@@ -1,6 +1,6 @@
 # TeamM_BE
 This is the back-end of an e-commerce website project created for EECS 4413, which focuses on building e-commerce systems.
-
+### NOTE: The AWS server is currently offline, but the code can be cloned and run locally.
 Backend
 
 ## To import project into Eclipse
