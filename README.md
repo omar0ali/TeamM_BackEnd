@@ -105,5 +105,3 @@ Front-End URL:
 ```
 http://elasticbeanstalk-us-east-1-363292851522.s3-website-us-east-1.amazonaws.com/
 ```
-
-Please feel free to edit, I might have made some mistakes or typos.
