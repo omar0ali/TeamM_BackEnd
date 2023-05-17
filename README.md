@@ -1,12 +1,11 @@
 # TeamM_BE
 This is the back-end of an e-commerce website project created for EECS 4413, which focuses on building e-commerce systems.
-### NOTE: The AWS server is currently offline, but the code can be cloned and run locally.
-Backend
-
+### NOTE: The AWS server is currently offline; however, the code can be cloned and run locally.
+I was responsible for developing the back-end of the website, which includes designing the database and ensuring the correct functionality of all URLs. This ensures that the front-end can effortlessly fetch the required data.
 ## To import project into Eclipse
 
-I used **github desktop** and cloned the project to my eclipse-workspace then opened Eclipse and created a new web dynamic project with the name TeamM_BE. Make sure the name should be exactly like the cloned directory. 
-After making changes, you can go back to github desktop app and push the changes to origin.
+I used GitHub Desktop and cloned the project to my eclipse-workspace. Then, I opened Eclipse and created a new web dynamic project with the name 'TeamM_BE,' ensuring that the name matched the cloned directory exactly.
+Once I made the necessary changes, I went back to the GitHub Desktop app and pushed the changes to the origin.
 
 ### TEST CASES
 
