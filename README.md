@@ -95,7 +95,7 @@ try {
 		e.printStackTrace();
 }
 ```
-database.sql file has the create table, and insert queries.
+The 'database.sql' file contains the necessary table creation and insert queries.
 
 ### ER Diagram
 You can access the er diagram through [https://app.diagrams.net/](https://app.diagrams.net/) and import file [TeamM_ER_Diagram.drawio](https://github.com/czyrnyc/TeamM_BE/blob/main/TeamM_ER_Diagram.drawio) located in the main directory of the project.
